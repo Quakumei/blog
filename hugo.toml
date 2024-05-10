@@ -1,4 +1,4 @@
-baseURL = 'https://quakumei.github.io'
+baseURL = 'https://quakumei.github.io/blog'
 languageCode = 'en-us'
 title = "「 ✦ quakumei blog ✦ 」"
 theme = 'hugo-bearblog'

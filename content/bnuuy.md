@@ -7,4 +7,4 @@ menu = "main"
 
 Here's a picture of my pet bunny *Брюхо* (Brue-ho)
 
-![Brue-ho](/static/bnuuy/bunny.jpg)
+![Brue-ho](/blog/static/bnuuy/bunny.jpg)
